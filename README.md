@@ -1,7 +1,7 @@
 - Hi i am Devansh Gawand
 - I am Currently Studying in 9th std
-- i am intrested in Python
-- To reach me - Instagram - devansh_13_gawand
+- Python and HTML, Learning js
+- To reach me - Instagram - intresting_Human_13
 
 
 <!---
